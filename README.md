@@ -1,1 +1,1 @@
-# scala
+# scala code samples
